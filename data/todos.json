@@ -1,0 +1,22 @@
+{
+  "user1": [
+    {
+      "id": "4697ef2c-6ba1-424c-beb9-54bb45a0c449",
+      "text": "Tailwind training session today at 3:00 pm - 3:30 pm",
+      "completed": false
+    }
+  ],
+  "user2": [],
+  "user4": [
+    {
+      "id": "3a8ad966-efbc-4491-9be5-b19ce0752c74",
+      "text": "Promostion Training at 2:30 PM - 3:30 PM",
+      "completed": true
+    },
+    {
+      "id": "a990a69b-0a43-4c12-918e-e6a83648c134",
+      "text": "1SPOC training session at 10:30 AM - 11:00 AM",
+      "completed": true
+    }
+  ]
+}

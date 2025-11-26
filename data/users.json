@@ -1,0 +1,37 @@
+{
+  "user1": {
+    "password": "$2a$10$5HrtTtUdYMuPSqAO5F7y/eBM9CqThJGN.cpHMYYslBji37cxyXxAG",
+    "email": "user1@gmail.com",
+    "mobile": "9999999999",
+    "gender": "male",
+    "createdAt": "2025-11-21T09:14:24.469Z"
+  },
+  "user2": {
+    "password": "$2a$10$aqntRcWO8VOyVRuo4thM6OiFwKCfIzIs5yk2TVQo45kvLAkA6pmlG",
+    "email": "user2@gmail.com",
+    "mobile": "8888888888",
+    "gender": "male",
+    "createdAt": "2025-11-21T09:32:28.069Z"
+  },
+  "user3": {
+    "password": "$2a$10$ZHzS8HVNGWSm3zJcdsFu5.PoH92XUwaKQVBe8C1OXhbQSVC1m0eO2",
+    "email": "user3@gmail.com",
+    "mobile": "7777777777",
+    "gender": "male",
+    "createdAt": "2025-11-21T09:56:19.167Z"
+  },
+  "user4": {
+    "password": "$2a$10$45EwE7/EU80nvKFi9gFcrOkFoNfWYGiXlJj6ylnjGm2o4q5DNTzCu",
+    "email": "user4@gmail.com",
+    "mobile": "9898989898",
+    "gender": "male",
+    "createdAt": "2025-11-25T06:12:14.352Z"
+  },
+  "Vijays": {
+    "password": "$2a$10$dM7y084rQbEgq/62BMhSNuAm/PZYxeNSaTfzqOSKUud3nqGS19q4u",
+    "email": "vijay.sontakke@pinnacle.in",
+    "mobile": "9209874956",
+    "gender": "male",
+    "createdAt": "2025-11-26T09:09:19.477Z"
+  }
+}
